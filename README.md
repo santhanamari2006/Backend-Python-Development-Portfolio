@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-DevOps and Django Projects
-
-=======
 # Backend Development Projects
 
 A collection of backend and full-stack web development projects built using Python frameworks. These projects demonstrate practical knowledge of API development, database management, authentication, application architecture, and real-time communication.
@@ -55,4 +51,3 @@ A real-time messaging application designed to enable users to communicate throug
 - **Database:** SQLite, MySQL
 - **API Development:** REST APIs
 - **Version Control:** Git and GitHub
->>>>>>> 4cc5d9453405fa4cb56e31f03ee7b5f65601b79d
